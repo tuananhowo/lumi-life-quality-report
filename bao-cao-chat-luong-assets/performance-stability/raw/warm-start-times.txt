@@ -1,0 +1,35 @@
+WARM_RUN=1
+Status: ok
+LaunchState: HOT
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 142
+WaitTime: 156
+Complete
+WARM_RUN=2
+Status: ok
+LaunchState: HOT
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 177
+WaitTime: 199
+Complete
+WARM_RUN=3
+Status: ok
+LaunchState: HOT
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 168
+WaitTime: 190
+Complete
+WARM_RUN=4
+Status: ok
+LaunchState: HOT
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 168
+WaitTime: 179
+Complete
+WARM_RUN=5
+Status: ok
+LaunchState: HOT
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 169
+WaitTime: 181
+Complete

@@ -1,0 +1,69 @@
+---- TIME 21/8/26 09:43:32 ----
+ACTIVITY MANAGER PROCESS EXIT INFO (dumpsys activity exit-info)
+Last Timestamp of Persistence Into Persistent Storage: 2026-08-21 09:26:47.348
+  package: com.lumi.lumilife
+    Historical Process Exit for uid=10507
+        ApplicationExitInfo #0:
+          timestamp=2026-08-21 09:13:15.012 pid=28563 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=13 (OTHER KILLS BY SYSTEM) subreason=3 (TOO MANY EMPTY PROCS) status=0
+          importance=400 pss=0,00 rss=112MB description=too many empty state=empty trace=null
+        ApplicationExitInfo #1:
+          timestamp=2026-08-21 08:56:45.554 pid=25027 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=13 (OTHER KILLS BY SYSTEM) subreason=3 (TOO MANY EMPTY PROCS) status=0
+          importance=400 pss=0,00 rss=113MB description=too many empty state=empty trace=null
+        ApplicationExitInfo #2:
+          timestamp=2026-08-21 03:20:37.820 pid=14839 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=13 (OTHER KILLS BY SYSTEM) subreason=2003 (UNKNOWN) status=0
+          importance=400 pss=0,00 rss=224MB description=o-kill(3) state=empty trace=null
+        ApplicationExitInfo #3:
+          timestamp=2026-08-20 17:19:34.119 pid=9759 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=560MB description=stop com.lumi.lumilife due to from pid 14788 state=empty trace=null
+        ApplicationExitInfo #4:
+          timestamp=2026-08-20 17:03:45.529 pid=8430 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=529MB description=stop com.lumi.lumilife due to from pid 9722 state=empty trace=null
+        ApplicationExitInfo #5:
+          timestamp=2026-08-20 17:02:35.745 pid=7352 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=552MB description=stop com.lumi.lumilife due to from pid 8390 state=empty trace=null
+        ApplicationExitInfo #6:
+          timestamp=2026-08-20 17:01:55.066 pid=6115 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=527MB description=stop com.lumi.lumilife due to from pid 7313 state=empty trace=null
+        ApplicationExitInfo #7:
+          timestamp=2026-08-20 17:01:00.024 pid=32433 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=390MB description=stop com.lumi.lumilife due to from pid 6027 state=empty trace=null
+        ApplicationExitInfo #8:
+          timestamp=2026-08-20 16:52:40.879 pid=24859 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=402MB description=stop com.lumi.lumilife due to from pid 32239 state=empty trace=null
+        ApplicationExitInfo #9:
+          timestamp=2026-08-20 16:26:06.989 pid=24002 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=13 (OTHER KILLS BY SYSTEM) subreason=13 (INVALID START) status=0
+          importance=100 pss=0,00 rss=543MB description=[INVALID START] killedByAm=true;No entry in mProcessNames;pendingStart=false; state=empty trace=null
+        ApplicationExitInfo #10:
+          timestamp=2026-08-20 16:25:29.378 pid=23347 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=0,00 description=stop com.lumi.lumilife due to from pid 23966 state=empty trace=null
+        ApplicationExitInfo #11:
+          timestamp=2026-08-20 16:25:21.982 pid=22474 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=590MB description=stop com.lumi.lumilife due to from pid 23316 state=empty trace=null
+        ApplicationExitInfo #12:
+          timestamp=2026-08-20 16:24:50.133 pid=21109 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=438MB description=stop com.lumi.lumilife due to from pid 22438 state=empty trace=null
+        ApplicationExitInfo #13:
+          timestamp=2026-08-20 16:22:58.677 pid=20265 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=396MB description=stop com.lumi.lumilife due to from pid 21054 state=empty trace=null
+        ApplicationExitInfo #14:
+          timestamp=2026-08-20 16:22:03.567 pid=20234 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=1000 pss=0,00 rss=0,00 description=stop com.lumi.lumilife due to from pid 20235 state=empty trace=null
+        ApplicationExitInfo #15:
+          timestamp=2026-08-20 16:22:03.191 pid=19555 realUid=10507 packageUid=10507 definingUid=10507 user=0
+          process=com.lumi.lumilife reason=10 (USER REQUESTED) subreason=21 (FORCE STOP) status=0
+          importance=100 pss=0,00 rss=499MB description=stop com.lumi.lumilife due to from pid 20220 state=empty trace=null

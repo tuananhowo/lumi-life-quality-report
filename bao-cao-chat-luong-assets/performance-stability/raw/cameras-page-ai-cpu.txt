@@ -1,0 +1,1 @@
+  114% 29836/com.lumi.lumilife: 74% user + 40% kernel / faults: 37673 minor

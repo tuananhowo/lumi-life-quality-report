@@ -1,0 +1,35 @@
+COLD_RUN=1
+Status: ok
+LaunchState: COLD
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 2370
+WaitTime: 2388
+Complete
+COLD_RUN=2
+Status: ok
+LaunchState: COLD
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 1324
+WaitTime: 1358
+Complete
+COLD_RUN=3
+Status: ok
+LaunchState: WARM
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 1916
+WaitTime: 1965
+Complete
+COLD_RUN=4
+Status: ok
+LaunchState: COLD
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 1404
+WaitTime: 1455
+Complete
+COLD_RUN=5
+Status: ok
+LaunchState: WARM
+Activity: com.lumi.lumilife/com.lumi.lumi_life.MainActivity
+TotalTime: 1549
+WaitTime: 1614
+Complete

@@ -1,0 +1,70 @@
+Applications Memory Usage (in Kilobytes):
+Uptime: 38740067 Realtime: 155264846
+
+** MEMINFO in pid 29836 [com.lumi.lumilife] **
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap    36131    36076       32    10342    37240    81920    49653    32266
+  Dalvik Heap     9752     4444     5176     4580    11152    19082     9541     9541
+ Dalvik Other     2455     2088       48       41     3192                           
+        Stack     2448     2448        0      856     2456                           
+       Ashmem       33        0        0        0      912                           
+    Other dev       41       12       20        0      620                           
+     .so mmap    10437      288     3436      279    44052                           
+    .jar mmap     2429        0      676        0    29348                           
+    .apk mmap    16736      356    15888      100    21268                           
+    .ttf mmap      453        0      136        0     1028                           
+    .dex mmap     7115        0     7104        0     7896                           
+    .oat mmap      616        0        0        0    18484                           
+    .art mmap     6922     3672     2276      227    23472                           
+   Other mmap      601      368       40        0     1768                           
+    GL mtrack   101380   101380        0        0   101380                           
+      Unknown    38983    38348      616     5580    39448                           
+        TOTAL   258537   189480    35448    22005   343716   101002    59194    41807
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:    10392                          34624
+         Native Heap:    36076                          37240
+                Code:    27884                         122700
+               Stack:     2448                           2456
+            Graphics:   101380                         101380
+       Private Other:    46748
+              System:    33609
+             Unknown:                                   45316
+ 
+           TOTAL PSS:   258537            TOTAL RSS:   343716       TOTAL SWAP PSS:    22005
+ 
+ Objects
+               Views:        7         ViewRootImpl:        1
+         AppContexts:       17           Activities:        1
+              Assets:       58        AssetManagers:        0
+       Local Binders:       42        Proxy Binders:      130
+       Parcel memory:       33         Parcel count:      132
+    Death Recipients:        3             WebViews:        0
+ 
+ SQL
+         MEMORY_USED:     1011
+  PAGECACHE_OVERFLOW:      601          MALLOC_SIZE:       46
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b) cache hits cache misses cache size  Dbname
+PER CONNECTION STATS
+         4      188             49    98   211    25  /data/user/0/com.lumi.lumilife/no_backup/androidx.work.workdb
+         4        8                    0     0     0    (attached) temp
+         4      188             52     6    89     5  /data/user/0/com.lumi.lumilife/no_backup/androidx.work.workdb (2)
+         4      472             94     8   104     9  /data/user/0/com.lumi.lumilife/databases/OneSignal.db
+         4       56            123    56   135    17  /data/user/0/com.lumi.lumilife/databases/com.google.android.datatransport.events
+POOL STATS
+     cache hits  cache misses    cache size  Dbname
+            106           321           427  /data/user/0/com.lumi.lumilife/no_backup/androidx.work.workdb
+              8           105           113  /data/user/0/com.lumi.lumilife/databases/OneSignal.db
+             56           136           192  /data/user/0/com.lumi.lumilife/databases/com.google.android.datatransport.events
+ 
+ Asset Allocations
+    : 30K
+
+
+
